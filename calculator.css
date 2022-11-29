@@ -1,0 +1,23 @@
+.box {
+  border: solid black 5px;
+  background-color: lightseagreen;
+}
+.boxer {
+  display: flex;
+  justify-content: center;
+  margin-top: 10%;
+}
+.box1 {
+  border: solid black 2px;
+  width: 100%;
+  background-color: lightgreen;
+  font-family: system-ui;
+  text-align: center;
+  padding: 9px;
+}
+.row {
+  display: flex;
+}
+.box1:hover {
+  background-color: rgb(193, 185, 201);
+}
